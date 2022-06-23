@@ -8,8 +8,8 @@ from torchvision import datasets, transforms
 from torchvision.datasets import ImageFolder
 import torch.utils.data as Data
 # from models import Student_net_versatile_for_performance as models
-# from models import Student_net_versatile_feature_map_Combination as models
-from models import Student_net_versatile_feature_map_Combination_Norm as models
+from models import Student_net_versatile_feature_map_Combination as models
+# from models import Student_net_versatile_feature_map_Combination_Norm as models
 #from models.Teacher_Class import TeacherNet as TeacherModel
 import pandas as pd
 
