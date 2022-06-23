@@ -7,7 +7,7 @@ saveRealDataToHfile.py
 KD student at fix condition.py  
 --KD experiment
 
-Student versatile for performance featureMap fixLRW.py 
+Student versatile for performance featureMap weight search.py 
 --train student network with full information
 
 timeStatistic.py  
